@@ -14,7 +14,7 @@ django-admin-export==2.0
 django-bootstrap3==8.2.3
 django-debug-toolbar==1.5
 django-filter==1.0.2
-django-registration==2.3
+django-registration==3.1.2
 django-report-utils==0.3.15
 -e git+https://github.com/bradleyayers/django-tables2.git@262cc45c46334cdf04349d4b1a8aa11c7d3d51d3#egg=django_tables2
 dnspython==1.11.1
