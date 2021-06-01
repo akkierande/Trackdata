@@ -65,7 +65,7 @@ Twisted-Web==13.2.0
 uncompyle2==1.1
 unicodecsv==0.14.1
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==15.1.0
 VTK==5.8.0
 xdiagnose===3.6.3build2
